@@ -1,6 +1,6 @@
 # FNFestivaltoRB
 
-![FNF](https://github.com/C0Assassin/FNFestivaltoRB/assets/64763026/a11fdaae-e8ea-44f0-92eb-f2ded9fbd793)
+![FNF](https://github.com/FEStoRB/FNFestivaltoRB/assets/158007129/c65f6997-8300-4c21-b210-2a6d4d7ca76b)
 
 DO NOT USE ONYX ON THESE FOR ANYTHING UNLESS YOU ARE CONVERTING TO PS3. THEY WILL WORK ON RB3/RB2/RB1.
 Read onyx.txt for more information.
