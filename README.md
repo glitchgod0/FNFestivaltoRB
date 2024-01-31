@@ -20,6 +20,9 @@ Below is a list of all songs currently completed. (Hand authored)
 * My Songs Know What You Did In The Dark - Fallout Boy
 * Dog Days Are Over - Florence + the Machine (RB3 con)
 * Heat Waves - Glass Animals
+* Basket Case - Green Day
+* Paradise - Green Day
+* When I Come Around - Green Day
 * Highway Tune - Greta Van Fleet
 * Believer - Imagine Dragons
 * Thunder - Imagine Dragons
@@ -42,6 +45,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Blinding Lights - The Weeknd
 * Can't Feel My Face - The Weeknd
 * Save Your Tears - The Weeknd
+* Take My Breath - The Weeknd
 * The Hills - The Weeknd
 * Seven Nation Army - The White Stripes
 * Buddy Holly - Weezer
