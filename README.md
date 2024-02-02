@@ -32,6 +32,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Party Rock Anthem - LMFAO ft. Lauren Bennett & GoonRock
 * emo girl - Machine Gun Kelly ft. WILLOW
 * The Hand That Feeds - Nine Inch Nails
+* get him back! - Olivia Rodrigo
 * good 4 u - Olivia Rodrigo
 * Counting Stars - OneRepublic
 * Heartbreaker - Pat Benatar
