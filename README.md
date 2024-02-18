@@ -14,40 +14,41 @@ Below is a list of all songs currently completed. (Hand authored)
 *Note that RB1/RB2 cons will still load in RB3 just fine. Do not attempt to convert to an RB3 con yourself, you will break the con.*
 
 ## Songs currently completed:
-* Dirty Little Secret - All American Rejects
-* bad guy - Billie Eilish
-* Cake By The Ocean - DNCE
-* My Songs Know What You Did In The Dark - Fallout Boy
-* Dog Days Are Over - Florence + the Machine (RB3 con)
-* Heat Waves - Glass Animals
-* Basket Case - Green Day
-* Paradise - Green Day
-* When I Come Around - Green Day
-* Highway Tune - Greta Van Fleet
-* Believer - Imagine Dragons
-* Thunder - Imagine Dragons
-* i - Kendrick Lamar (RB3 con)
-* Suddenly I See - KT Tunstall
-* Bad Romance - Lady Gaga
-* Party Rock Anthem - LMFAO ft. Lauren Bennett & GoonRock
-* emo girl - Machine Gun Kelly ft. WILLOW
-* Less Than - Nine Inch Nails
-* The Hand That Feeds - Nine Inch Nails
-* get him back! - Olivia Rodrigo
-* good 4 u - Olivia Rodrigo
-* Counting Stars - OneRepublic
-* Heartbreaker - Pat Benatar
+* All American Rejects - Dirty Little Secret
 * Bastille - Pompeii
-* Gangnam Style - Psy
-* Go With The Flow - Queens of the Stone Age
-* Stitches - Shawn Mendes
-* Cradles - Sub Urban
-* Zombie - The Cranberries
-* Mr. Brightside - The Killers
-* Blinding Lights - The Weeknd
-* Can't Feel My Face - The Weeknd
-* Save Your Tears - The Weeknd
-* Take My Breath - The Weeknd
-* The Hills - The Weeknd
-* Seven Nation Army - The White Stripes
-* Buddy Holly - Weezer
+* Billie Eilish - bad guy
+* DNCE - Cake By The Ocean
+* Fallout Boy - My Songs Know What You Did In The Dark
+* Florence + the Machine - Dog Days Are Over  (RB3 con)
+* Glass Animals - Heat Waves
+* Green Day - Basket Case
+* Green Day - Paradise
+* Green Day - When I Come Around
+* Greta Van Fleet - Highway Tune
+* Imagine Dragons - Believer
+* Imagine Dragons - Thunder
+* Kendrick Lamar - i (RB3 con)
+* KT Tunstall - Suddenly I See
+* Lady Gaga - Bad Romance
+* LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem
+* Machine Gun Kelly ft. WILLOW - emo girl
+* Miley Cyrus - Flowers
+* Nine Inch Nails - Less Than
+* Nine Inch Nails - The Hand That Feeds
+* Olivia Rodrigo - get him back!
+* Olivia Rodrigo - good 4 u
+* OneRepublic - Counting Stars
+* Pat Benatar - Heartbreaker
+* Psy - Gangnam Style
+* Queens of the Stone Age - Go With The Flow
+* Shawn Mendes - Stitches
+* Sub Urban - Cradles
+* The Cranberries - Zombie
+* The Killers - Mr. Brightside
+* The Weeknd - Blinding Lights
+* The Weeknd - Can't Feel My Face
+* The Weeknd - Save Your Tears
+* The Weeknd - Take My Breath
+* The Weeknd - The Hills
+* The White Stripes - Seven Nation Army
+* Weezer - Buddy Holly
