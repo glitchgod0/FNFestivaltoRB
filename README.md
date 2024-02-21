@@ -18,6 +18,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Bastille - Pompeii
 * Billie Eilish - bad guy
 * DNCE - Cake By The Ocean
+* Doja Cat - Say So
 * Fallout Boy - My Songs Know What You Did In The Dark
 * Florence + the Machine - Dog Days Are Over  (RB3 con)
 * Glass Animals - Heat Waves
