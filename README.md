@@ -19,6 +19,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Billie Eilish - bad guy
 * DNCE - Cake By The Ocean
 * Doja Cat - Say So
+* Epic Games - 8-Bit Beat
 * Fallout Boy - My Songs Know What You Did In The Dark
 * Florence + the Machine - Dog Days Are Over  (RB3 con)
 * Glass Animals - Heat Waves
@@ -34,6 +35,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem
 * Machine Gun Kelly ft. WILLOW - emo girl
 * Miley Cyrus - Flowers
+* Nelly ft. City Spud - Ride Wit Me
 * Nine Inch Nails - Less Than
 * Nine Inch Nails - The Hand That Feeds
 * Olivia Rodrigo - get him back!
