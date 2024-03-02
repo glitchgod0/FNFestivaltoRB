@@ -36,6 +36,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Machine Gun Kelly ft. WILLOW - emo girl
 * Miley Cyrus - Flowers
 * Nelly ft. City Spud - Ride Wit Me
+* NF - The Search
 * Nine Inch Nails - Less Than
 * Nine Inch Nails - The Hand That Feeds
 * Olivia Rodrigo - get him back!
