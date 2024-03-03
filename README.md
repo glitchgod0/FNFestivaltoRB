@@ -20,6 +20,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * DNCE - Cake By The Ocean
 * Doja Cat - Say So
 * Epic Games - 8-Bit Beat
+* Epic Games - Butter Barn Hoedown
 * Fallout Boy - My Songs Know What You Did In The Dark
 * Florence + the Machine - Dog Days Are Over  (RB3 con)
 * Glass Animals - Heat Waves
