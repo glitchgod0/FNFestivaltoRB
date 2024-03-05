@@ -15,6 +15,7 @@ Below is a list of all songs currently completed. (Hand authored)
 
 ## Songs currently completed:
 * All American Rejects - Dirty Little Secret
+* Aqua - Barbie Girl
 * Bastille - Pompeii
 * Billie Eilish - bad guy
 * DNCE - Cake By The Ocean
