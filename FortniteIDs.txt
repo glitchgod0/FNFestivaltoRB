@@ -127,3 +127,9 @@ Mood - 4209623
 Scenario - 4209624
 Super Freak - 4209625
 Moves Like Jagger - 4209626
+Wolves - 4209627
+Kids - 4209628
+Don't You Worry Child - 4209629
+Everlong - 4209630
+Eyes Closed - 4209631
+I Wish - 4209632
